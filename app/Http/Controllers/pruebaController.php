@@ -12,6 +12,6 @@ class pruebaController extends Controller
         
         $user2 = User::all();
 
-
+        $user3 = User::all();
     }
 }

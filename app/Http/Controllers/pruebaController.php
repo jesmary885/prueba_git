@@ -10,5 +10,8 @@ class pruebaController extends Controller
     public function index(){
         $user = User::all();
         
+        $user2 = User::all();
+
+
     }
 }
